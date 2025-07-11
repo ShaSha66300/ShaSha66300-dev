@@ -50,5 +50,5 @@ I'm a French 🇫🇷 aspiring data scientist currently living in Japan 🇯🇵
 ## 📫 Contact
 
 - GitHub: [ShaSha66300](https://github.com/ShaSha66300)
-- LinkedIn: [sacha-seda](www.linkedin.com/in/sacha-seda)
+- LinkedIn: [sacha-seda](https://www.linkedin.com/in/sacha-seda/)
 - Email: sacha.sachap66@gmail.com
