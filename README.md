@@ -25,7 +25,7 @@ I'm a French 🇫🇷 aspiring data scientist currently living in Japan 🇯🇵
 
 ---
 
-## 📂 Projects / プロジェクト
+## 📂 Projects / プロジェクト (In progress)
 
 | Title | Description | Link |
 |-------|-------------|------|
